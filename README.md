@@ -1,15 +1,19 @@
 # The Healthcare Mirage: Mapping France’s Medical Deserts & Care Deficit
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://france-medical-deserts.streamlit.app/)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![Streamlit 1.33+](https://img.shields.io/badge/Streamlit-1.40+-FF4B4B.svg)](https://streamlit.io/)
 [![License: Open Licence 2.0](https://img.shields.io/badge/License-Etalab%202.0-green.svg)](https://www.etalab.gouv.fr/licence-ouverte-open-licence/)
+
+> ### Live Application URL
+> **Access the deployed dashboard**: **[https://france-medical-deserts.streamlit.app/](https://france-medical-deserts.streamlit.app/)**
 
 **Individual Student Project: Streamlit Dashboard**  
 **Course**: Data Visualization & Storytelling (EFREI Paris)  
 **Instructor**: Mano Joseph Mathew (mano.mathew@efrei.fr)  
 **Student**: Alexandre Morin (ID: 20230873 | Group: DAI)  
 **GitHub Repository**: [https://github.com/AL3X4231/France-Medical-Deserts](https://github.com/AL3X4231/France-Medical-Deserts)  
-**Live Application**: [https://france-medical-deserts.streamlit.app](https://france-medical-deserts.streamlit.app)  
+**Live Application**: [https://france-medical-deserts.streamlit.app/](https://france-medical-deserts.streamlit.app/)  
 **Submission Archive**: `StApp26_20230873_MORIN_DAI.zip`  
 **Hashtags**: #EFREIDataStories2026 #EFREIParis #DataVisualization #Streamlit #DataStorytelling #OpenData #PublicData
 
@@ -151,7 +155,8 @@ The app automatically loads the processed DREES data (or downloads and processes
 
 ## Submission Packaging Checklist
 
-- [x] Streamlit App deployable locally and on Streamlit Community Cloud.
+- [x] Streamlit App deployed live: [https://france-medical-deserts.streamlit.app/](https://france-medical-deserts.streamlit.app/)
+- [x] Public GitHub Repository: [https://github.com/AL3X4231/France-Medical-Deserts](https://github.com/AL3X4231/France-Medical-Deserts)
 - [x] Official open dataset sourced from DREES / data.gouv.fr with Etalab 2.0 license.
 - [x] Reproducible environment with pinned `requirements.txt`.
 - [x] Documented data cleaning, feature engineering, and Parquet caching (`@st.cache_data`).
