@@ -15,7 +15,6 @@ INCLUDED_FILES = [
     "app.py",
     "requirements.txt",
     "README.md",
-    "GUIDELINES.md",
     "data/raw/france_departments.geojson",
 ]
 
