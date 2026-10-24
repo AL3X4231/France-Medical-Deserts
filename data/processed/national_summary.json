@@ -1,0 +1,35 @@
+{
+  "2022": {
+    "weighted_apl": 3.789,
+    "weighted_apl_under_60": 2.683,
+    "retirement_cliff_pct": 29.2,
+    "total_pop": 67162154,
+    "desert_pop": 9991878,
+    "pct_pop_in_desert": 14.88,
+    "total_communes": 34964,
+    "desert_communes": 12216,
+    "pct_desert_communes": 34.94
+  },
+  "2023": {
+    "weighted_apl": 3.745,
+    "weighted_apl_under_60": 2.682,
+    "retirement_cliff_pct": 28.38,
+    "total_pop": 67408052,
+    "desert_pop": 11210951,
+    "pct_pop_in_desert": 16.63,
+    "total_communes": 34954,
+    "desert_communes": 12862,
+    "pct_desert_communes": 36.8
+  },
+  "2024": {
+    "weighted_apl": 3.722,
+    "weighted_apl_under_60": 2.696,
+    "retirement_cliff_pct": 27.55,
+    "total_pop": 67760573,
+    "desert_pop": 12341978,
+    "pct_pop_in_desert": 18.21,
+    "total_communes": 34890,
+    "desert_communes": 13282,
+    "pct_desert_communes": 38.07
+  }
+}
