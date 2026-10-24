@@ -8,6 +8,8 @@
 **Course**: Data Visualization & Storytelling (EFREI Paris)  
 **Instructor**: Mano Joseph Mathew (mano.mathew@efrei.fr)  
 **Student**: Alexandre Morin (ID: 20230873 | Group: DAI)  
+**GitHub Repository**: [https://github.com/AL3X4231/France-Medical-Deserts](https://github.com/AL3X4231/France-Medical-Deserts)  
+**Live Application**: [https://france-medical-deserts.streamlit.app](https://france-medical-deserts.streamlit.app)  
 **Submission Archive**: `StApp26_20230873_MORIN_DAI.zip`  
 **Hashtags**: #EFREIDataStories2026 #EFREIParis #DataVisualization #Streamlit #DataStorytelling #OpenData #PublicData
 
